@@ -843,7 +843,7 @@ div.round {
 }
 
 .circle-wrap .circle .mask .fill6 {
-    clip: rect(0px, 75px, 150px, 0px);
+     clip: rect(0px, 82px, 150px, 0px);
     background-color: #5ad67d;
 }
 
@@ -916,7 +916,7 @@ div.round {
     clip: rect(0px, 150px, 150px, 75px);
 }
 
-.circle-wrap .circle .mask .fill7 {
+.circle-wrap .circle .mask .fill6 {
     clip: rect(0px, 75px, 150px, 0px);
     background-color: #5ad67d;
 }
