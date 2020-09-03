@@ -843,23 +843,23 @@ div.round {
 }
 
 .circle-wrap .circle .mask .fill6 {
-     clip: rect(0px, 82px, 150px, 0px);
+     clip: rect(0px, 75px, 150px, 0px);
     background-color: #5ad67d;
 }
 
 .circle-wrap .circle .mask.full,
 .circle-wrap .circle .fill6 {
     animation: fill ease-in-out 3s;
-    transform: rotate(60deg);
+    transform: rotate(79deg);
     /* circle %  adjustments  */
 }
 
-@keyframes fill3 {
+@keyframes fill6 {
     0% {
         transform: rotate(1deg);
     }
     100% {
-        transform: rotate(60deg);
+        transform: rotate(79deg);
         /* circle %  adjustments  */
     }
 }
@@ -924,7 +924,7 @@ div.round {
 .circle-wrap .circle .mask.full,
 .circle-wrap .circle .fill7 {
     animation: fill ease-in-out 3s;
-    transform: rotate(65deg);
+    transform: rotate(79deg);
     /* circle %  adjustments  */
 }
 
@@ -933,7 +933,7 @@ div.round {
         transform: rotate(1deg);
     }
     100% {
-        transform: rotate(65deg);
+        transform: rotate(79deg);
         /* circle %  adjustments  */
     }
 }
